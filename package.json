@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@swc/cli": "^0.4.0",
+    "@swc/core": "^1.7.10",
+    "chokidar": "^3.6.0"
+  }
+}
